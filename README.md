@@ -1,4 +1,4 @@
-# atom-package-list
+# Atom package list
 Atom package list
 ## Usage
 
